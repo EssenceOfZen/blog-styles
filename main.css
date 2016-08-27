@@ -18,3 +18,10 @@ body {
 	background: url("https://essenceofzen.org/assets/imgs/backgrounds/black-flora-background.png") no-repeat fixed;
 	background-size: cover;
 }
+
+/* footer */
+.attribution {
+	color: white !important;
+	background-image: none !important;
+	background-color: #333;
+}

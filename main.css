@@ -1,6 +1,20 @@
+/* header */
+.header-bar {
+	background-color: red;
+}
+
+/* title text */
+#header .header-bar .title h1 {
+	color: white;
+	text-shadow: 1px 1px 2px black;
+}
+
+/* menu */
+#header .header-drawer.open {
+	background-color: #425784;
+}
+
 body {
-	background-image: url("https://essenceofzen.org/assets/imgs/backgrounds/black-flora-background.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background: url("https://essenceofzen.org/assets/imgs/backgrounds/black-flora-background.png") no-repeat fixed;
 	background-size: cover;
 }
